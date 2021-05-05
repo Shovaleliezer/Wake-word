@@ -1,6 +1,6 @@
 # Wake-word
 in this project I tried to create my own voice assistance 
-how i did it? first i took my data from torchaudio SPEECHCOMMANDS
+how i did it? /n first i took my data from torchaudio SPEECHCOMMANDS
 then i created helper function called label_to_index which gives me 1 if 
 the word i read as a string is my keyword(keyword gets inside the function as param)
 and 0 if its not the keyword. 
